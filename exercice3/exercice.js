@@ -1,3 +1,3 @@
-$("selector").event(function(){
+$("span").mouseenter(function(){
     $(this).hide();
 });
